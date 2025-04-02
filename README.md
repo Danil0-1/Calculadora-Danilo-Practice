@@ -17,3 +17,7 @@ Calculadora de operaciones básicas.
 ## **Funcionamiento**
 
 El usuario ingresa un número y luego se muestra el resultado de la operación que se ha seleccionado.
+
+## **Uso**
+
+Para ver el proyecto usa el link que esta en la parte superior del lado derecho de este repositorio.
