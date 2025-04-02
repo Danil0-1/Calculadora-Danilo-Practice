@@ -12,11 +12,7 @@ Calculadora de operaciones básicas.
 
 ## **Autor**
 
-- Danilo Muskus Tarazona - Github: [Danilo-Muskus](https://github.com/Danil0-1) 
-
-## **Descripción del proyecto**
-
-Calculadora de operaciones básicas.
+- Danilo Muskus Tarazona - Github: [Danilo-Muskus-Tarazona](https://github.com/Danil0-1) 
 
 ## **Funcionamiento**
 
